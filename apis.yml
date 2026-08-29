@@ -32,6 +32,9 @@ description: 'MagicBus is a vanpool management platform that helps employers, HR
   publishes no public API or developer program at this time; this profile captures
   its verified public web surface.'
 url: https://raw.githubusercontent.com/api-evangelist/magicbus/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Surfaced as a mobility portfolio lead of Version One Ventures and Y Combinator, MagicBus publishes no public API or developer program at this time; this profile captures its verified public web surfac"
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
